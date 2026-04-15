@@ -1,0 +1,4 @@
+serviceAccountKey.json
+target/
+node_modules/
+*.log
